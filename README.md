@@ -1,9 +1,9 @@
 # CodeChallenge
 1. i wanted to code this in c++ so i decided to include the following libraries and namespaces to make it easier to code: 
 
-#include <iostream> <- this handles input/output which is important because i want to use the terminal for this code
-#include <string> <- this handles strings which is important because roman numerals are in fact strings
-#include <map> <- this handles maps which are c++'s associative arrays, and they are important because i want to use them to associate letters for roman numerals to certain numbers
+#include iostream <- this handles input/output which is important because i want to use the terminal for this code
+#include string <- this handles strings which is important because roman numerals are in fact strings
+#include map <- this handles maps which are c++'s associative arrays, and they are important because i want to use them to associate letters for roman numerals to certain numbers
 and
 using namespace std <- The std namespace is where all the functions and classes defined in these libraries are defined, so it's important to include this statement to avoid naming conflicts with functions or classes defined in other namespaces.
 
